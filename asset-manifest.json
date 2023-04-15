@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Connect-Bus/static/css/main.073c9b0a.css",
+    "main.js": "/Connect-Bus/static/js/main.3fdb1fb0.js",
+    "static/js/787.d37a36ed.chunk.js": "/Connect-Bus/static/js/787.d37a36ed.chunk.js",
+    "static/media/lukas.png": "/Connect-Bus/static/media/lukas.2cc4546f770064f2bc6d.png",
+    "static/media/Download.png": "/Connect-Bus/static/media/Download.03acdd6532fbeb135535.png",
+    "index.html": "/Connect-Bus/index.html",
+    "main.073c9b0a.css.map": "/Connect-Bus/static/css/main.073c9b0a.css.map",
+    "main.3fdb1fb0.js.map": "/Connect-Bus/static/js/main.3fdb1fb0.js.map",
+    "787.d37a36ed.chunk.js.map": "/Connect-Bus/static/js/787.d37a36ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fdb1fb0.js"
+  ]
+}
